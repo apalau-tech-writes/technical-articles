@@ -10,7 +10,7 @@ I'm a Senior DevOps and Onboarding Engineer with hands-on experience implementin
 
 | Title | Topic | Published |
 |---|---|---|
-| [How to integrate SonarQube Cloud with GitHub Actions for automated code quality](./sonarqube-cloud-github-actions.md) | SonarQube, GitHub Actions, CI/CD | 2026 |
+| [How to integrate SonarQube Cloud with GitHub Actions for automated code quality](./SQ-C_GitHubActions/sonarqube-cloud-github-actions.md) | SonarQube, GitHub Actions, CI/CD | 2026 |
 
 ## Topics covered
 
