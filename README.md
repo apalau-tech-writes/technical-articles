@@ -1,6 +1,6 @@
 # Technical Articles
 
-A collection of technical articles and guides covering DevOps, CI/CD, code quality, and developer tooling — written by [Arturo Palau](https://www.linkedin.com/in/YOUR_LINKEDIN_HANDLE).
+A collection of technical articles and guides covering DevOps, CI/CD, code quality, and developer tooling — written by [Arturo Palau](https://www.linkedin.com/in/arturo-palau-58829232/).
 
 ## About
 
