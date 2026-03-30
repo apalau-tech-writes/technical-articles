@@ -1,3 +1,6 @@
 # Claude config
 .claude/
 
+# macOS
+.DS_Store
+
