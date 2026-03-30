@@ -27,4 +27,4 @@ I'm available for freelance technical writing and instructional design projects,
 - CI/CD and DevOps tutorials
 - eLearning course development (Rise 360 + Absorb LMS)
 
-Feel free to reach out via [LinkedIn](https://www.linkedin.com/in/YOUR_LINKEDIN_HANDLE) or open an issue in this repo.
+Feel free to reach out via [LinkedIn](https://www.linkedin.com/in/arturo-palau-58829232/) or open an issue in this repo.
